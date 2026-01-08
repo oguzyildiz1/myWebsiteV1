@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106" viewBox="0 0 106 106">
+  <g id="third" transform="translate(-27 -176)">
+    <path id="Path_3" data-name="Path 3" d="M16,0H90a16,16,0,0,1,16,16V90a16,16,0,0,1-16,16H16A16,16,0,0,1,0,90V16A16,16,0,0,1,16,0Z" transform="translate(27 176)" fill="rgba(49,94,236,0.92)"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="16" cy="29" rx="16" ry="29" transform="translate(48 200)" fill="#88ff8c"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="8" cy="19" rx="8" ry="19" transform="translate(56 210)" fill="#416aed"/>
+    <path id="Union_2" data-name="Union 2" d="M-134.5-410.963v-36.108l-10.7-18.971L-148-471h4.967L-132-451.962-121.024-471H-116l-13.5,23.45q0,.044,0,.088v34a2.5,2.5,0,0,1-2.5,2.5Z" transform="translate(231 669.962)" fill="#88ff8c"/>
+  </g>
+</svg>

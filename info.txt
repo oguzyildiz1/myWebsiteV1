@@ -1,0 +1,3 @@
+file-locs:
+	desktop/oguzyildiz/design
+		design.xlsx, site-design.xd, oguzhan_yildiz_bitirme_projesi.pdf

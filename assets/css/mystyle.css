@@ -1,0 +1,72 @@
+:root{
+    --test-color: rgba(0, 0, 0, 0.7);
+    --test-color-light: hsla(0, 48%, 55%, 0.7);
+
+}
+
+@font-face {
+  font-family: natoSans; /* set name */
+  src: url('../fonts/used/NotoSans-Regular.ttf'), format('truetype'); /* url of the font */
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: natoSans; /* set name */
+  src: url('../fonts/used/NotoSans-SemiBold.ttf'), format('truetype'); /* url of the font */
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: natoSans; /* set name */
+  src: url('../fonts/used/NotoSans-Bold.ttf'), format('truetype'); /* url of the font */
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: Unna;
+    src: url('../fonts/used/Unna-Bold.ttf'), format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+*{
+  outline: 1px dotted rgb(200, 246, 200) ;
+  box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: natoSans;
+    font-weight: 400;
+    background-color: var(--test-color);
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: Unno;
+}
+
+img {
+  display: block;
+}
+
+.wrapper {
+  margin-inline: 5rem;
+}
+/* ------------ header ------------ */
+
+header{
+  background-color: var(--test-color-light);
+}
+
+header > .wrapper > * {
+  display: inline-block;
+}
+
+div#logo img {
+  width: 53px;
+}
+
